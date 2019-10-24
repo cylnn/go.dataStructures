@@ -12,6 +12,8 @@ type binaryTree struct {
 }
                                                                                                                                                       
 func NewBinaryTree(root *BinTreeNode) *binaryTree {
+  t := Hello{}
+  t.print()
     return &binaryTree{root: root}
 }
                                                                                                                                                       
