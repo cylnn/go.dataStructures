@@ -8,6 +8,6 @@ type Hello struct  {
 }
 func (h *Hello) print() {
 	t := mod.Hello{}
-	fmt.Println(t)
+	fmt.Println(222222222,t)
 	
 }
