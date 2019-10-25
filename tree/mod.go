@@ -3,6 +3,7 @@ import (
 "github.com/ybw139/mod"
 "fmt"
 )
+//测试代码
 type Hello struct  {
     HH int
 }
